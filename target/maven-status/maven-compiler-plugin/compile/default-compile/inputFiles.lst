@@ -1,0 +1,15 @@
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\repository\RoleRepository.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\repository\UserRepository.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\model\security\CustomUserDetails.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\model\security\Role.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\App.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\model\dto\UserLoginDTO.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\config\SecurityConfig.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\controller\UserController.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\config\AppConfig.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\service\UserService.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\service\security\CustomUserDetailsServiceImpl.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\model\User.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\service\UserServiceImpl.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\config\exception\BusinessException.java
+D:\Downloads_D\ANUL 4\SCD\proiect\Materials\template\location-app\src\main\java\org\scd\config\exception\ExceptionConfig.java
